@@ -1,3 +1,3 @@
 import FocusManager from "shared/ts/utils/focus-manager";
 
-new FocusManager();
+const fm = new FocusManager();
